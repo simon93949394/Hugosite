@@ -1,0 +1,9 @@
+[submodule "themes/hugochui"]
+	path = themes/hugochui
+	url = https://github.com/themefisher/meghna-hugo.git
+[submodule "themes/infinity-hugo"]
+	path = themes/infinity-hugo
+	url = https://github.com/themefisher/infinity-hugo.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
